@@ -56,3 +56,15 @@ In the Simon Says Game, players must memorize and repeat a sequence of colored l
 
 ### Buzzer Game
 The Buzzer Game requires the player to press a button within a specific time window after the buzzer is activated. If the player successfully presses the button within the time window, they win the game.
+
+## Technologies Used
+
+In the development of these arcade games for Arduino, several technologies were utilized to facilitate the design, programming, and debugging processes.
+
+- **C++ with Arduino**: The Arduino boards were programmed using C++, a powerful and versatile programming language. The Arduino IDE provides a user-friendly environment for writing and uploading code to the boards.
+
+- **Fusion 360**: Autodesk Fusion 360, a 3D design software, was used to create the physical components of the project. This includes designing the enclosure for the electronics, as well as any custom parts required for the games.
+
+- **Tinkercad**: Tinkercad, an online platform for 3D design and circuit simulation, was employed for debugging and testing the circuits before building the physical prototype. This virtual environment allows for quick and easy adjustments, helping to ensure the proper functionality of the circuits and components.
+
+By leveraging these technologies, the project development process was streamlined, resulting in an enjoyable and functional collection of arcade-style games for Arduino.
